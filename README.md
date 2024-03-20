@@ -8,7 +8,7 @@ Time spent: 2 hours spent in total
 
 ## Summary
 
-Pokedex is an android app that provides information for any Pokemon.
+Pokedex is an Android app that provides information for any Pokemon.
 
 If I had to describe this project in three (3) emojis, they would be: 📕📲🔎
 
@@ -51,7 +51,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned about using APIs in Android Studio.
 
 ## License
 
